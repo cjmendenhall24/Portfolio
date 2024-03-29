@@ -4,9 +4,7 @@
 
 This website was created by Charles Mendenhall, a student in the UCONN Coding bootcamp for Summer 2023.
 
-The following image demonstrates the web application's appearence:
 
-![web application appearance](./assets/images/Portfoli-snapshot.PNG)
 
 The following link takes you to the deployed application: [link](https://f
 
