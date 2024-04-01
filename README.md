@@ -6,7 +6,7 @@ This website was created by Charles Mendenhall, a student in the UCONN Coding bo
 
 The following image demonstrates the web application's appearence:
 
-![web application appearance](./assets/images/Portfoli-snapshot.PNG)
+
 
 The following link takes you to the deployed application: [link](https://f
 
